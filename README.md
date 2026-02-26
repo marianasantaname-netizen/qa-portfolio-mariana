@@ -1,4 +1,4 @@
-# QA Portfolio – Mariana Santana de Soouza Soares
+# QA Portfolio – Mariana Santana de Souza Soares
 
 Este repositório contém projetos práticos desenvolvidos durante minha formação em Quality Assurance.
 
